@@ -105,7 +105,7 @@ Thank You For Shopping!
 
   ***Screenshot***
   
-![Output 1](Output 1.png)
+![Output1](Output1.png)
 
 ![Output 2](Output 2.png)
 
