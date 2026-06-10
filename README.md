@@ -107,7 +107,7 @@ Thank You For Shopping!
   
 ![Output1](Output1.png)
 
-![Output 2](Output 2.png)
+![Output2](Output2.png)
 
 ***License***
 
